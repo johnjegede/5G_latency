@@ -4,7 +4,7 @@ To replicate and see the result we had in the ptp_stats.txt file checkout the 5G
 
 ## How to set up
 
-Read the How to run the setup and run5g latency measurement with ptpd.docx file
+Read the 5G_Latency_Measurement_Ptpd.docx file
 
 ## Output files
 
