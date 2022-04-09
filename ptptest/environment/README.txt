@@ -28,5 +28,5 @@ IF_NAME = the name of the network interface
 INT = interval of time for messages (can be 0, 1, 2, ...7, which translate to 1,2,4,...128 messages per second).
 
 
-The value of all these should be set in the source/run_ptpd_master.sh  and source/run_ptpd_slave.sh
+The value of all these should be set in the ptp_test/source/run_ptpd_master.sh  and ptp_test/source/run_ptpd_slave.sh
 and also the makefile ptp_test/Makefile
