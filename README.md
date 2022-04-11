@@ -13,3 +13,5 @@ ptpd_statso.txt is the output of the ptpd
 output4.txt is the output of the iperf tool
 
 pingFile.txt is the output of the ping tool
+
+graphs.m is the file for the graph configuration
